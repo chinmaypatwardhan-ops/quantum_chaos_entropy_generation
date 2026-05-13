@@ -1,0 +1,816 @@
+{
+  "__type__": "PrimitiveResult",
+  "__value__": {
+    "pub_results": [
+      {
+        "__type__": "PubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "evs",
+                "stds",
+                "evs_noise_factors",
+                "stds_noise_factors",
+                "ensemble_stds_noise_factors",
+                "evs_extrapolated",
+                "stds_extrapolated"
+              ],
+              "field_types": [
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "evs": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrv2V8yecOvfeHgA+1iBs"
+                },
+                "stds": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrvzknNrFbEX2ADY9HlQ="
+                },
+                "evs_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACut6/DEzkuvrff+Mjkb8rX9/Y7Hv/fFPXxvT0Ao+ErBQ=="
+                },
+                "stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAuNScjNVaGFHsmnv+rhY1T7ItMo1iXcKXbAwAtmCHB"
+                },
+                "ensemble_stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACuHSl+3LVL0+31tMvWNcSk2Otzng7bcSDFHgBb0CUL"
+                },
+                "evs_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA679lfMnnDr33p5L68OM6Ovv7euvik5refHePvzu7kvbfr63j72w7+1eoPwJ95wpYUD5+WbHH7YD5UtVlfR3AuUBI2dB0Q=="
+                },
+                "stds_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA6785JzaxWxF9ouMmVZ++pxlv2pxi/uzO4n2zUcDu68o5NkbO0o7dHIV2TfV8D3c9iHLfhuDq8Wcm4n2ASETuUNE8+wB3Zc2wA=="
+                }
+              }
+            }
+          },
+          "metadata": {
+            "shots": 4096,
+            "target_precision": 0.015625,
+            "circuit_metadata": {},
+            "resilience": {
+              "zne": {
+                "extrapolator": "exponential"
+              }
+            },
+            "num_randomizations": 32
+          }
+        }
+      },
+      {
+        "__type__": "PubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "evs",
+                "stds",
+                "evs_noise_factors",
+                "stds_noise_factors",
+                "ensemble_stds_noise_factors",
+                "evs_extrapolated",
+                "stds_extrapolated"
+              ],
+              "field_types": [
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "evs": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrnmvN/LevfTeHgA/ISBj"
+                },
+                "stds": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrg+tiVe7dobbAwA+KB/D"
+                },
+                "evs_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACuz7uC1jw/+N5+ieqvDVVT39sX89wMM618bw8AoTopGQ=="
+                },
+                "stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACuO1YJu6acTrU/1qm6Yb9hrn2J/Js68YIcewB82iaA"
+                },
+                "ensemble_stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACumUvbJ36fmWFvftRI4fSHbHuHVrvlnHdz7QGAByba"
+                },
+                "evs_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA655rzfy3r303v7Rqi+F3gfe2yv/N9zqMfu9/ZuTy2QKy97bH6vVUN8NlN9u08XnCpSfscv3bgRQvtJCcE0OUB4A6lk+ig=="
+                },
+                "stds_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA64PrYlXu3aG2++aE8pYvivQPse26ukhUy/7TQv+K9RohdmvFWVaIfQk3P57xdvoE88D7f1vrvXtLPOytzu/f1Z0dpg9ACUCOe8="
+                }
+              }
+            }
+          },
+          "metadata": {
+            "shots": 4096,
+            "target_precision": 0.015625,
+            "circuit_metadata": {},
+            "resilience": {
+              "zne": {
+                "extrapolator": "exponential"
+              }
+            },
+            "num_randomizations": 32
+          }
+        }
+      },
+      {
+        "__type__": "PubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "evs",
+                "stds",
+                "evs_noise_factors",
+                "stds_noise_factors",
+                "ensemble_stds_noise_factors",
+                "evs_extrapolated",
+                "stds_extrapolated"
+              ],
+              "field_types": [
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "evs": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBLg7fyZk28e/tATNaHlk="
+                },
+                "stds": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrv9OfPf1zcrtAThWHog="
+                },
+                "evs_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAur42JS7j3vLOfdeBQ9aIlb+233p1RsTDmjT0AjPcpJQ=="
+                },
+                "stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAuv607jH/9LLF3XSLsYt9Ybb/5q93zrQL19gB71ib8"
+                },
+                "ensemble_stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACuk14rbq04XGK/VitJaGt4lf2XwII9rBX19gCA1SbN"
+                },
+                "evs_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkAy4O38mZNvHv7bvSJ286efCd/e2lLFHiE97aJ206HeWc9cZ+v6PsD4/w9/atti9f3zvwzl7AtPEy15S39nN0JHebpb+xBwA9/jtE"
+                },
+                "stds_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA67/Tnz39c3K7ZvOvc7v3lhgv2zVTtcA5Sx7PuN7k45vLrMvO/RV8JxQkf3BVS1Z1Zuz7L2ttZl+H02xnyxya969nCJ7ABcVOcg="
+                }
+              }
+            }
+          },
+          "metadata": {
+            "shots": 4096,
+            "target_precision": 0.015625,
+            "circuit_metadata": {},
+            "resilience": {
+              "zne": {
+                "extrapolator": "exponential"
+              }
+            },
+            "num_randomizations": 32
+          }
+        }
+      },
+      {
+        "__type__": "PubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "evs",
+                "stds",
+                "evs_noise_factors",
+                "stds_noise_factors",
+                "ensemble_stds_noise_factors",
+                "evs_extrapolated",
+                "stds_extrapolated"
+              ],
+              "field_types": [
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "evs": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrvnCHPEamp/tATIeHds="
+                },
+                "stds": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrqi1T5ubne/bAwA7oB+S"
+                },
+                "evs_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAuo/0Hcz40vbDfmiq4rm/9Dfun3kHr7P4ssAcAjW4oiw=="
+                },
+                "stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACu4/ekrJ03d9kf2/7i1UrtHvtpOm9s1dwm2gMAhBUnLA=="
+                },
+                "ensemble_stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAuzmLZEykBrfYreT20f7P02UtbuH0PMZ9gDwBQJSQW"
+                },
+                "evs_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA675whzxGpqf7S1372NecveF/Y8+0Z8BH67YbzW9anl44UF7HuPotdau7+y5evkcBJNf2HM0vTpVYXvTnmFBXfRHn9n2APUgOLw="
+                },
+                "stds_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA66otU+bm53v25/L/Xwhmu+4fYtbY/oG2yP2C1s2nVS3OGg/yV7QoLVmhv0x+12t8XKT7B/86pHzcuq0z6gyULwhO80eADrcOSM="
+                }
+              }
+            }
+          },
+          "metadata": {
+            "shots": 4096,
+            "target_precision": 0.015625,
+            "circuit_metadata": {},
+            "resilience": {
+              "zne": {
+                "extrapolator": "exponential"
+              }
+            },
+            "num_randomizations": 32
+          }
+        }
+      },
+      {
+        "__type__": "PubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "evs",
+                "stds",
+                "evs_noise_factors",
+                "stds_noise_factors",
+                "ensemble_stds_noise_factors",
+                "evs_extrapolated",
+                "stds_extrapolated"
+              ],
+              "field_types": [
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "evs": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrpsF0lJr9r+3BwA5XB9W"
+                },
+                "stds": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBroVRs5xOfNtgDwA7Wx/D"
+                },
+                "evs_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACuuLDKvoSoF/Y2nlKd/Y237X0T51de2XbRHgBooSas"
+                },
+                "stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACugxm9l2asbbVPFeV/ffdTm/3+y3v61izoswcAjdgo7A=="
+                },
+                "ensemble_stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACupNeOh9vrWu1LHm3Zw5Dea1+ccqfjjEW/PQCCKyd+"
+                },
+                "evs_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA66bBdJSa/a/t+/N72Lkd3hhf1PV/vox7zv2T81ePlNpumB/ZO9C39rlr+0PNuv4Kkx/bl8i3zLjzJt79hfy4nQ3hp21BwBMdjwb"
+                },
+                "stds_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA66FUbOcTnzbYJ+9YI3hqZUL7OVvnJj7PnC2feR6s8l7hBbYS7xNU9YuO2yvsFDqxueOPfa1OyaInu/aYr/+dmesVPchewBi9Tu5"
+                }
+              }
+            }
+          },
+          "metadata": {
+            "shots": 4096,
+            "target_precision": 0.015625,
+            "circuit_metadata": {},
+            "resilience": {
+              "zne": {
+                "extrapolator": "exponential"
+              }
+            },
+            "num_randomizations": 32
+          }
+        }
+      },
+      {
+        "__type__": "PubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "evs",
+                "stds",
+                "evs_noise_factors",
+                "stds_noise_factors",
+                "ensemble_stds_noise_factors",
+                "evs_extrapolated",
+                "stds_extrapolated"
+              ],
+              "field_types": [
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "evs": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrqja9vUGrz/YAwA5xh+W"
+                },
+                "stds": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrj+OF72XWSyzBwA8JR9b"
+                },
+                "evs_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACuRzYS238/eGZ/M2yZ7ZS0K/ZbXbVmiqsesQcAjGUnZg=="
+                },
+                "stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAu6Zf7tre5ddmraPWXrjvSY+9y9cIU/5IJ9gB4PicK"
+                },
+                "ensemble_stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAu82jvpXG17fa1kpP/bpfvt2fxuR4+VXeCPQBiICVa"
+                },
+                "evs_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA66o2vb1Bq8/2HMfWZ31+9oze++jp69cPX/F3tlqb86Jb4fsd8erlJ4re2V/YfKE53tvP7X/9v3iDEvvm/Yaitxdd6t32wMA/IhARQ=="
+                },
+                "stds_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA64/jhe9l1kssz+bePXam+0T7Z3DZqp/PdRnv5r/YMpJux57hcqgnpack/Y/7KMm+b8+ZL+KNaePN2iX/d0PSrcXzTlmDwBzHTxC"
+                }
+              }
+            }
+          },
+          "metadata": {
+            "shots": 4096,
+            "target_precision": 0.015625,
+            "circuit_metadata": {},
+            "resilience": {
+              "zne": {
+                "extrapolator": "exponential"
+              }
+            },
+            "num_randomizations": 32
+          }
+        }
+      },
+      {
+        "__type__": "PubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "evs",
+                "stds",
+                "evs_noise_factors",
+                "stds_noise_factors",
+                "ensemble_stds_noise_factors",
+                "evs_extrapolated",
+                "stds_extrapolated"
+              ],
+              "field_types": [
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "evs": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrr25D8QqFj+1BwA7uR+e"
+                },
+                "stds": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrr4HLql8P27ZAwA6ih91"
+                },
+                "evs_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAu6yUrNi7a8Mh+w/ytP57WTLX/aCl00P3U8v0AmjQprg=="
+                },
+                "stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACuhSUCgexKPfa6v9aVFb3qs2/ctsMgvqXfHgBi4yYM"
+                },
+                "ensemble_stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAud6vJc1LedNlf5v5yxiNugv2fnOYLd6Im2AMAfpkn+g=="
+                },
+                "evs_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA65XbY4nC+u4HLJ/Mq97t+GR/YvkC8o8syfZJ+iUWzq3OtnvzX0gVrH4qf2Gw1Uz5hQ/sA/atzdvmv8Je5lJ+S2u+gf3AwA6eDsB"
+                },
+                "stds_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA66DEzW4VzDJO5gHtzLFn9hsX7mz9ofU5q32J5Ycc3g1u9S+74FLKt+PW/Z8U05OrfC6Yq93i2n+RtXT9qy7UzYJOlyzBwDo4zkM"
+                }
+              }
+            }
+          },
+          "metadata": {
+            "shots": 4096,
+            "target_precision": 0.015625,
+            "circuit_metadata": {},
+            "resilience": {
+              "zne": {
+                "extrapolator": "linear"
+              }
+            },
+            "num_randomizations": 32
+          }
+        }
+      },
+      {
+        "__type__": "PubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "evs",
+                "stds",
+                "evs_noise_factors",
+                "stds_noise_factors",
+                "ensemble_stds_noise_factors",
+                "evs_extrapolated",
+                "stds_extrapolated"
+              ],
+              "field_types": [
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "evs": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrm296tGvjz+xBwA7mh/Z"
+                },
+                "stds": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrgKvGOMj5x7ZAwA3gB87"
+                },
+                "evs_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACud8d29rOGPrIPqJ0+ufHZnv0tk6Yu2OvQtB8AkjYpNw=="
+                },
+                "stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACuw4G/fku49drP7zYq6yqbbP9UQrQ4fO4kewB7tyZ/"
+                },
+                "ensemble_stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACuzenWOvJnuuz/lbDuuig/wV6x2cMg2XKCPQBl0iUK"
+                },
+                "evs_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkAy4ZxRtcvfcmO9hFVla9DXlk73hayzXTtN7usnp2++4JUrbbetWjXx9/Yu9R9+XczqL79n/a6xgYCo/ZT3nzek4x86H9APg+Ov4="
+                },
+                "stds_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA65tR5YIPOG+6Ji2Qit+2QJ5x5Zn+2UvzTrgsPDE9ykr1592KPCKMT5y7pF9qJD9o1yHO/YS9s3Wv+Zesf/CoF43JeChPQBk0DuO"
+                }
+              }
+            }
+          },
+          "metadata": {
+            "shots": 4096,
+            "target_precision": 0.015625,
+            "circuit_metadata": {},
+            "resilience": {
+              "zne": {
+                "extrapolator": "linear"
+              }
+            },
+            "num_randomizations": 32
+          }
+        }
+      },
+      {
+        "__type__": "PubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "evs",
+                "stds",
+                "evs_noise_factors",
+                "stds_noise_factors",
+                "ensemble_stds_noise_factors",
+                "evs_extrapolated",
+                "stds_extrapolated"
+              ],
+              "field_types": [
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "evs": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBLpvjnSc9wh7bAwA58R9U"
+                },
+                "stds": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrm0qF32LQx/aAwA5NR8f"
+                },
+                "evs_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACuUj+fyTlZD+1DF7w2azq7Yv+2T3rZyx/PtwcAfwooaw=="
+                },
+                "stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACu2Dm1RU17uu3/MBtor4uaYD/PYJbS7fsT7QFw5yaT"
+                },
+                "ensemble_stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACuayKeEp6h3fYlhyPePdSdYH9sklncSoMJ9gBnSyX/"
+                },
+                "evs_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA66JeocWNV2c5bC8PT0vLeuh/ZQJeaJTE3LtTj7b8ufPsR82Nsc7T3qEPba/fki9tmXmXXut8AWLrjw7Zr9hnWzW/lO79gMAoi0/RA=="
+                },
+                "stds_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA6495WIc0nw3HJ+27DvWXCPvGJFgN7st/7iD3z0Djbedlx22qVz0LQ59aL9PY/K6z1dv2p879sbyT+0l+4c7xVwl9963BwATODv9"
+                }
+              }
+            }
+          },
+          "metadata": {
+            "shots": 4096,
+            "target_precision": 0.015625,
+            "circuit_metadata": {},
+            "resilience": {
+              "zne": {
+                "extrapolator": "linear"
+              }
+            },
+            "num_randomizations": 32
+          }
+        }
+      },
+      {
+        "__type__": "PubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "evs",
+                "stds",
+                "evs_noise_factors",
+                "stds_noise_factors",
+                "ensemble_stds_noise_factors",
+                "evs_extrapolated",
+                "stds_extrapolated"
+              ],
+              "field_types": [
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "evs": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrm85lx5zNz2yBwA/CiAE"
+                },
+                "stds": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBro+TSyNVS27aAwA7Px9C"
+                },
+                "evs_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAuCZm+2/cD79tPmMIWEnFq+v7lj+VjZlzZsB8AeFEoHw=="
+                },
+                "stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAu9gjTcxn3u+xdu/Q/e0j02mv3l22UVJhkDwBfHiTY"
+                },
+                "ensemble_stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAuFpPQReHxPfYtxjcr2w0n2Nt7nAl7ojnBHgBYUyUj"
+                },
+                "evs_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA64d4YvkdJd0OHB9v75vf+B9+091LNaGPp124s+aRdjzTWy/5Vx6zN30yH7WjagfcgG37S+ES6dvXbDfPiFyVmfH/2P7AQjtOwA="
+                },
+                "stds_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA66tj5QUlmStcmyrerZdN5vRUXfj6/UR4eccrNOWn/mccNPh4+TSSNWSm/avbev/KZ+4ZM+84vm5e0dO2d9vM+N8tv66PQBbnj1t"
+                }
+              }
+            }
+          },
+          "metadata": {
+            "shots": 4096,
+            "target_precision": 0.015625,
+            "circuit_metadata": {},
+            "resilience": {
+              "zne": {
+                "extrapolator": "linear"
+              }
+            },
+            "num_randomizations": 32
+          }
+        }
+      },
+      {
+        "__type__": "PubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "evs",
+                "stds",
+                "evs_noise_factors",
+                "stds_noise_factors",
+                "ensemble_stds_noise_factors",
+                "evs_extrapolated",
+                "stds_extrapolated"
+              ],
+              "field_types": [
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>",
+                "<class 'numpy.ndarray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "evs": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrkNOF2ofLHlpDwA+AiA8"
+                },
+                "stds": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqaOgq1ChQBrmfe3U9nqh2zBwA87x+k"
+                },
+                "evs_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACutvlz6iedum1/5wDLk7nvD9qLfBBY3xxbZQ8AlZ8ogA=="
+                },
+                "stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFAAupx2Nz5sPddk3e2z7uMN4sv1v5ltF/d+m2wMAi+woog=="
+                },
+                "ensemble_stds_noise_factors": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGOpo6CrUKFACuaxtsHB6G9tp/iVNfeV1wgn14evCRMssJ9gB7DSaO"
+                },
+                "evs_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA65DThdqHyx5aX9thVp+3Y3b9tyOzYJtWQfsT6go/ZOMXmwvmij+W1rpof23hUezkr/fspc7/Gx5ye4T9ge+fRMru79wPwBYyT1b"
+                },
+                "stds_extrapolated": {
+                  "__type__": "ndarray",
+                  "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RpGOgommjoKtQpkA65n3t1PZ6ods7/d0b32jMUie9cVn8x81yy3L1tu176FbY69sqOr2EuXPfaRjIeUvzZtsW/Jb73+/8ZG+7iwl2klDQfsAUraO10="
+                }
+              }
+            }
+          },
+          "metadata": {
+            "shots": 4096,
+            "target_precision": 0.015625,
+            "circuit_metadata": {},
+            "resilience": {
+              "zne": {
+                "extrapolator": "exponential"
+              }
+            },
+            "num_randomizations": 32
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "dynamical_decoupling": {
+        "enable": true,
+        "sequence_type": "XX",
+        "extra_slack_distribution": "middle",
+        "scheduling_method": "alap"
+      },
+      "twirling": {
+        "enable_gates": false,
+        "enable_measure": true,
+        "num_randomizations": "auto",
+        "shots_per_randomization": "auto",
+        "interleave_randomizations": true,
+        "strategy": "active-accum"
+      },
+      "resilience": {
+        "measure_mitigation": true,
+        "zne_mitigation": true,
+        "pec_mitigation": false,
+        "zne": {
+          "noise_factors": [
+            1,
+            3,
+            5
+          ],
+          "extrapolator": [
+            "exponential",
+            "linear"
+          ],
+          "extrapolated_noise_factors": [
+            0,
+            1,
+            3,
+            5
+          ]
+        }
+      },
+      "version": 2
+    }
+  }
+}
