@@ -5,7 +5,7 @@ This repository contains the empirical hardware telemetry, exact state-vector si
 
 The framework demonstrates the extraction of cryptographic randomness from a composite chaotic Hamiltonian (Kicked Top coupled with Arnold's Cat Map) and establishes the strict necessity of classical privacy amplification (Leftover Hash Lemma) to overcome NISQ-era decoherence.
 
-## 🛠 Prerequisites & Installation
+## Prerequisites & Installation
 
 To reproduce the simulations and hardware evaluations, ensure you have an environment with GPU acceleration (CUDA/ROCm) for the PyTorch state-vector integrations.
 
